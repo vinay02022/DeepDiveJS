@@ -7,24 +7,24 @@ Ensure the e-commerce website's functionality, performance, and usability. Ident
 Scope of Testing:
 Cover the entire e-commerce website, including both frontend and backend functionalities.
 
-#Testing Levels:
+# Testing Levels:
 
 Unit testing for individual components.
 Integration testing for interaction between components.
 System testing for the complete system.
 Acceptance testing to validate if the system meets the specified requirements.
-Testing Types:
+# Testing Types:
 
 Functional testing for feature validation.
 Usability testing for user-friendliness.
 Performance testing to ensure responsiveness under various loads.
 Entry and Exit Criteria:
 
-Entry criteria: Code freeze, completion of unit testing.
+# Entry criteria: Code freeze, completion of unit testing.
 Exit criteria: Successful completion of all test cases, no high-priority defects.
 Test Environment and Tools:
 
-Browsers: Chrome, Firefox, Safari.
+# Browsers: Chrome, Firefox, Safari.
 Devices: Desktop, Mobile.
 OS: Windows, macOS, Linux.
 Tools: Selenium for web automation, JUnit for Java-based testing.
@@ -41,14 +41,14 @@ Define timelines for each testing phase.
 # Test Resources:
 Specify human resources, testing tools, and equipment.
 
-Test Data and Environment Setup:
+# Test Data and Environment Setup:
 Describe how test data will be generated and maintained. Specify the setup process for the test environment.
 
-Test Execution and Reporting:
+# Test Execution and Reporting:
 Define the process for executing tests and reporting results.
 
-Part 2: Test Case Design
-Functional Test Cases:
+# Test Case Design
+# Functional Test Cases:
 User Registration:
 
 Verify successful registration with valid user details.
